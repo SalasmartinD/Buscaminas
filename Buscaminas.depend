@@ -1,0 +1,4144 @@
+# depslib dependency file v1.0
+1746462744 source:/home/ezequiel/Progra/Buscaminas/dibujos.c
+	"dibujos.h"
+
+1746462717 /home/ezequiel/Progra/Buscaminas/dibujos.h
+	<SDL2/SDL.h>
+
+1746462668 source:/home/ezequiel/Progra/Buscaminas/main.c
+	<stdio.h>
+	<stdlib.h>
+	"dibujos.h"
+	<time.h>
+
+1746464584 source:/home/ezequiel/Progra/ejemplo-sdl2/dibujos.c
+	"dibujos.h"
+
+1746464602 /home/ezequiel/Progra/ejemplo-sdl2/dibujos.h
+	<SDL2/SDL.h>
+
+1746463362 source:/home/ezequiel/Progra/ejemplo-sdl2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dibujos.h"
+
+1746468616 source:c:\users\ezequiel\desktop\ejemplo-sdl2\dibujos.c
+	"dibujos.h"
+
+1746471869 c:\users\ezequiel\desktop\ejemplo-sdl2\dibujos.h
+	<SDL2/SDL.h>
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476731 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476731 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1746476731 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476731 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476731 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476733 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476732 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746476731 c:\users\ezequiel\desktop\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746477073 source:c:\users\ezequiel\desktop\ejemplo-sdl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dibujos.h"
+
+1747187771 source:c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\dibujos.c
+	"dibujos.h"
+
+1747187771 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\dibujos.h
+	<SDL2/SDL.h>
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187771 source:c:\users\salas\desktop\ejemplo-sdl2_1 (1)\ejemplo-sdl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dibujos.h"
+
+1747287291 source:c:\users\salas\desktop\pasardepc\ejemplo-sdl2\dibujos.c
+	"dibujos.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+
+1747287175 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\dibujos.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747284196 source:c:\users\salas\desktop\pasardepc\ejemplo-sdl2\main.c
+	"dibujos.h"
+
+1747274285 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\spritesjuego.h
+
+1747285226 c:\users\salas\desktop\pasardepc\ejemplo-sdl2\spritenumeros.h
+
+1747287291 source:c:\users\salas\desktop\pasardepc\buscaminas\dibujos.c
+	"dibujos.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+
+1747287175 c:\users\salas\desktop\pasardepc\buscaminas\dibujos.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\pasardepc\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747274285 c:\users\salas\desktop\pasardepc\buscaminas\spritesjuego.h
+
+1747285226 c:\users\salas\desktop\pasardepc\buscaminas\spritenumeros.h
+
+1747287827 source:c:\users\salas\desktop\pasardepc\buscaminas\main.c
+	"dibujos.h"
+
+1748675347 source:c:\users\salas\desktop\buscaminas\dibujos.c
+	"dibujos.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+	"spriteNumerosJuego.h"
+
+1748675266 c:\users\salas\desktop\buscaminas\dibujos.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747274285 c:\users\salas\desktop\buscaminas\spritesjuego.h
+
+1748661965 c:\users\salas\desktop\buscaminas\spritenumeros.h
+
+1748675977 source:c:\users\salas\desktop\buscaminas\main.c
+	"dibujos.h"
+
+1748662239 c:\users\salas\desktop\buscaminas\spritenumerosjuego.h
+
+1748722919 source:c:\users\salas\desktop\buscaminasanterior\buscaminas\dibujos.c
+	"dibujos.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+	"spriteNumerosJuego.h"
+
+1748722547 c:\users\salas\desktop\buscaminasanterior\buscaminas\dibujos.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187755 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187754 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747187753 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747274284 c:\users\salas\desktop\buscaminasanterior\buscaminas\spritesjuego.h
+
+1748661964 c:\users\salas\desktop\buscaminasanterior\buscaminas\spritenumeros.h
+
+1748662238 c:\users\salas\desktop\buscaminasanterior\buscaminas\spritenumerosjuego.h
+
+1748722437 source:c:\users\salas\desktop\buscaminasanterior\buscaminas\main.c
+	"dibujos.h"
+	"menu.h"
+
+1748677603 c:\users\salas\desktop\buscaminasanterior\buscaminas\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+
+1748710892 c:\users\salas\desktop\buscaminasanterior\buscaminas\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1748711532 source:c:\users\salas\desktop\buscaminasanterior\buscaminas\menu.c
+	"menu.h"
+
+1748920603 source:c:\users\salas\desktop\buscaminasfuncional\dibujos.c
+	"dibujos.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+	"spriteNumerosJuego.h"
+
+1748920523 c:\users\salas\desktop\buscaminasfuncional\dibujos.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123470 c:\users\salas\desktop\buscaminasfuncional\spritesjuego.h
+
+1750123470 c:\users\salas\desktop\buscaminasfuncional\spritenumeros.h
+
+1750123470 c:\users\salas\desktop\buscaminasfuncional\spritenumerosjuego.h
+
+1750287291 source:c:\users\salas\desktop\buscaminasfuncional\main.c
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1750123470 c:\users\salas\desktop\buscaminasfuncional\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+
+1750123473 c:\users\salas\desktop\buscaminasfuncional\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1750198111 source:c:\users\salas\desktop\buscaminasfuncional\menu.c
+	"menu.h"
+	"estadisticas.h"
+
+1750198158 source:c:\users\salas\desktop\buscaminasfuncional\estadisticas.c
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	"estadisticas.h"
+
+1750123835 c:\users\salas\desktop\buscaminasfuncional\estadisticas.h
+	<time.h>
+
+1750285434 c:\users\salas\desktop\buscaminasfuncional\celdas.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1750264272 source:c:\users\salas\desktop\buscaminasfuncional\celdas.c
+	"celdas.h"
+
+1749605075 source:c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\estadisticas.c
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	"estadisticas.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1749605077 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1749611361 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\estadisticas.h
+	<time.h>
+
+1749605075 source:c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\main.c
+	"celdas.h"
+	"menu.h"
+	"estadisticas.h"
+
+1749611286 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\celdas.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1749605075 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+
+1749605075 source:c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\menu.c
+	"menu.h"
+	"estadisticas.h"
+
+1749611290 source:c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\celdas.c
+	"celdas.h"
+	"estadisticas.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+	"spriteNumerosJuego.h"
+
+1749605075 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\spritesjuego.h
+
+1749605075 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\spritenumeros.h
+
+1749605075 c:\users\salas\desktop\buscaminasfinal\buscaminasfuncional\spritenumerosjuego.h
+
+1750122360 source:c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\celdas.c
+	"celdas.h"
+	"estadisticas.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+	"spriteNumerosJuego.h"
+
+1750122360 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\celdas.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122365 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122366 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750122360 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\estadisticas.h
+	<time.h>
+
+1750122360 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\spritesjuego.h
+
+1750122360 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\spritenumeros.h
+
+1750122360 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\spritenumerosjuego.h
+
+1750122360 source:c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\main.c
+	"celdas.h"
+	"menu.h"
+	"estadisticas.h"
+
+1750122360 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+
+1750122367 c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1750122858 source:c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\estadisticas.c
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	"estadisticas.h"
+
+1750122918 source:c:\users\levil\onedrive\escritorio\buscaminasfinal\buscaminasfuncional\menu.c
+	"menu.h"
+	"estadisticas.h"
+
+1750913522 source:c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\celdas.c
+	"celdas.h"
+	"estadisticas.h"
+	"spritesJuego.h"
+	"spriteNumeros.h"
+	"spriteNumerosJuego.h"
+	"menu.h"
+
+1750913373 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\celdas.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750123472 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2-2.0.22\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1750260317 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\estadisticas.h
+	<time.h>
+
+1750260317 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\spritesjuego.h
+
+1750260317 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\spritenumeros.h
+
+1750260317 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\spritenumerosjuego.h
+
+1750631391 source:c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\estadisticas.c
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	"estadisticas.h"
+
+1750123473 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1750260317 source:c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\main.c
+	"celdas.h"
+	"menu.h"
+	"estadisticas.h"
+
+1750631028 c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\menu.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+
+1750630964 source:c:\users\salas\desktop\tp_topicos_2025_1c_jueves_bomberos_1\menu.c
+	"menu.h"
+	"estadisticas.h"
+
