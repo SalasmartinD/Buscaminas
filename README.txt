@@ -1,60 +1,55 @@
-REQUISITOS
+# 🎮 Integración de SDL2_ttf (v2.24.0)
 
-La única librería adicional que utilizamos es SDL2_ttf, versión 2.24.0.
+Este documento detalla la configuración necesaria para integrar la librería **SDL2_ttf** en el proyecto, esencial para el manejo de fuentes TrueType.
 
-Link para descargar SDL2_ttf:
-https://github.com/libsdl-org/SDL_ttf/releases
+## ⚠️ Requisitos Previos
 
-El archivo correcto es:
-SDL2_ttf-devel-2.24.0-mingw.zip
+Asegúrate de tener una instalación funcional de **SDL2** y el entorno de desarrollo **MinGW-w64**.
 
+| Recurso | Enlace de Descarga | Archivo Correcto |
+| :--- | :--- | :--- |
+| **SDL2_ttf** | https://github.com/libsdl-org/SDL_ttf/releases | `SDL2_ttf-devel-2.24.0-mingw.zip` |
 
-INSTRUCCIONES DE INSTALACIÓN
+---
 
-Descomprimir el archivo descargado.
+## ⚙️ Instrucciones de Instalación Local
 
-Copiar la carpeta resultante (SDL2_ttf-2.24.0) a la carpeta del proyecto, donde están los archivos .c y .h.
+Estos pasos preparan tu entorno para que el IDE (Code::Blocks) y el programa puedan encontrar los archivos de la librería.
 
-Copiar el archivo SDL2_ttf.dll de la capeta "lib" a la carpeta del ejecutable:
-en la carpeta del proyecto bin/Debug
+### 1. Colocación de Archivos
 
+1.  **Descarga y Descomprime** el archivo `SDL2_ttf-devel-2.24.0-mingw.zip`.
+2.  **Mover Carpeta:** Copia la carpeta resultante (ej., `SDL2_ttf-2.24.0`) a la **carpeta raíz de tu proyecto** (donde se encuentran tus archivos `.c` y `.h`).
+3.  **Copiar la DLL de Ejecución:** Copia el archivo **`SDL2_ttf.dll`** de la subcarpeta `x86_64-w64-mingw32/bin` a la carpeta de tu ejecutable: `[Carpeta del Proyecto]/bin/Debug`.
 
-CONFIGURACIÓN EN CODE::BLOCKS
+### 2. Configuración en Code::Blocks
 
-- Ir a Project → Build options → Linker settings
-  En "Link libraries", agregar:
+Ve a **Project → Build options...** en Code::Blocks.
 
-    SDL2main
+#### A. Pestaña "Linker settings" (Bibliotecas de Enlace)
 
-    SDL2_ttf
+En el cuadro **"Link libraries"**, agrega las siguientes librerías **en este orden**:
 
-- Ir a "Search directories":
+1.  `SDL2main`
+2.  `SDL2_ttf`
 
-  En la pestaña Compiler, agregar:
-    SDL2_ttf-2.24.0\x86_64-w64-mingw32\include
+#### B. Pestaña "Search directories"
 
-  En la pestaña Linker, agregar:
-    SDL2_ttf-2.24.0\x86_64-w64-mingw32\lib
+| Pestaña | Ruta a Agregar | Propósito |
+| :--- | :--- | :--- |
+| **Compiler** | `SDL2_ttf-2.24.0\x86_64-w64-mingw32\include` | Archivos de cabecera (`.h`) |
+| **Linker** | `SDL2_ttf-2.24.0\x86_64-w64-mingw32\lib` | Archivos binarios (`.a`) |
 
+---
 
-MODIFICACIONES EN EL ARCHIVO SDL_ttf.h
+## ⚠️ Modificaciones Críticas en el Código Fuente
 
-Es necesario modificar algunas líneas en el archivo SDL_ttf.h para evitar errores de inclusión:
+Es **obligatorio** modificar el archivo de cabecera de la librería para evitar errores de inclusión (`file not found`).
 
-Línea 39:
-Reemplazar
-#include "SDL.h"
-por
-#include <SDL2/SDL.h>
+Abre el archivo **`SDL2_ttf-2.24.0\x86_64-w64-mingw32\include\SDL2\SDL_ttf.h`** y realiza los siguientes reemplazos:
 
-Línea 40:
-Reemplazar
-#include "begin_code.h"
-por
-#include <SDL2/begin_code.h>
-
-Línea 2339:
-Reemplazar
-#include "close_code.h"
-por
-#include <SDL2/close_code.h>
+| Línea | Reemplazar | Por |
+| :--- | :--- | :--- |
+| **39** | `#include "SDL.h"` | `#include <SDL2/SDL.h>` |
+| **40** | `#include "begin_code.h"` | `#include <SDL2/begin_code.h>` |
+| **2339** | `#include "close_code.h"` | `#include <SDL2/close_code.h>` |
